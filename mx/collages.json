@@ -1,25 +1,25 @@
 {
 	"collages":[
 	{
+		"names" : "ASIET-kalady"
+	},
+	{
+		"names" : "CHRIST-Iringhalakuda"
+	},
+	{
 		"names" : "FISAT"
 	},
 	{
-		"names" : "AISAT"
+		"names" : "MACE-Kothamanghalam"
 	},
 	{
-		"names" : "CHRIST"
+		"names" : "METS-Mala"
 	},
 	{
-		"names" : "MACE"
+		"names" : "SNGIST-Manjali"
 	},
 	{
-		"names" : "UCE"
-	},
-	{
-		"names" : "SNGIST"
-	},
-	{
-		"names" : "METS"
+		"names" : "UCE-Iringhalakuda"
 	}
   ]
 }
