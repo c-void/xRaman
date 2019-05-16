@@ -1,6 +1,4 @@
-### KTU News
+# KTU News
 
-* Today
-* Tomorow
-* End
+* Exam Time :-;
 
