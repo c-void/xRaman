@@ -1,5 +1,6 @@
-# Credits
+## Credits
 
+* [Sandeepsinh](https://about.me/sandeepsinhrathore)
 * KTU Notes
 * KTU Students
-* Jagath (FISAT)
+* FISAT'ians
